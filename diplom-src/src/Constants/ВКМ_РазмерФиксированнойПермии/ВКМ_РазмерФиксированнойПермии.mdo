@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="018a159e-0e90-4ec1-8a92-701f31bc3d5a">
+  <producedTypes>
+    <managerType typeId="02308b66-3c59-4bd2-9242-f4af704e6e8e" valueTypeId="ac07582a-d592-4cd9-b860-f21270915207"/>
+    <valueManagerType typeId="d4d8051b-6c5a-472d-adc0-d00c97ae9588" valueTypeId="28bcc991-12fd-4e81-9b2f-6c07cfed0d0a"/>
+    <valueKeyType typeId="ec5cd081-e722-47af-9634-09fd226b5915" valueTypeId="8ae5bd48-0720-431c-82bc-a9ffd81a2efc"/>
+  </producedTypes>
+  <name>ВКМ_РазмерФиксированнойПермии</name>
+  <synonym>
+    <key>ru</key>
+    <value>РазмерФиксированнойПермии</value>
+  </synonym>
+  <type>
+    <types>Number</types>
+    <numberQualifiers>
+      <precision>15</precision>
+      <scale>2</scale>
+      <nonNegative>true</nonNegative>
+    </numberQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

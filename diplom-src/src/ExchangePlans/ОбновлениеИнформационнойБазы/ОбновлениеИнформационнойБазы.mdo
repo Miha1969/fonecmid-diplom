@@ -220,6 +220,10 @@
     <mdObject>Catalog.Пользователи</mdObject>
   </content>
   <content>
+    <mdObject>Document.ВКМ_ОбслуживаниеКлиентов</mdObject>
+    <autoRecord>Allow</autoRecord>
+  </content>
+  <content>
     <mdObject>InformationRegister.ВерсииПодсистем</mdObject>
   </content>
   <content>

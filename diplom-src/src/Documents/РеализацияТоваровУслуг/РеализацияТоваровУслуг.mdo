@@ -129,10 +129,8 @@
       <field>Document.РеализацияТоваровУслуг.Attribute.Организация</field>
     </choiceParameterLinks>
     <choiceParameters>
-      <name>Отбор.ВидДоговора</name>
-      <value xsi:type="core:ReferenceValue">
-        <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.Покупатель</value>
-      </value>
+      <name>Отбор.Владелец</name>
+      <value xsi:type="core:UndefinedValue"/>
     </choiceParameters>
     <fillFromFillingValue>true</fillFromFillingValue>
     <fillValue xsi:type="core:UndefinedValue"/>
@@ -236,6 +234,7 @@
       <key>ru</key>
       <value>Товары</value>
     </synonym>
+    <fillChecking>ShowError</fillChecking>
     <standardAttributes>
       <dataHistory>Use</dataHistory>
       <name>LineNumber</name>
@@ -255,12 +254,6 @@
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
-      <choiceParameters>
-        <name>Отбор.ВидНоменклатуры</name>
-        <value xsi:type="core:ReferenceValue">
-          <value>Enum.ВидыНоменклатуры.EnumValue.Товар</value>
-        </value>
-      </choiceParameters>
       <dataHistory>Use</dataHistory>
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
@@ -410,4 +403,11 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
+  <templates uuid="17010cb6-19dc-4fbb-aefb-7faa9b4d0f23">
+    <name>ПФ_MXL_АктОбОказанииУслуг</name>
+    <synonym>
+      <key>ru</key>
+      <value>Акт об оказании услуг</value>
+    </synonym>
+  </templates>
 </mdclass:Document>
