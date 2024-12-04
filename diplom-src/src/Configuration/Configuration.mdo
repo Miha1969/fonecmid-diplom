@@ -1058,7 +1058,6 @@
   <constants>Constant.ВКМ_ИндификаторГруппыДляОповещения</constants>
   <constants>Constant.ВКМ_НоменклатураАбонентскаяПлата</constants>
   <constants>Constant.ВКМ_НоменклатураРаботыСпециалиста</constants>
-  <constants>Constant.ВКМ_РазмерНДФЛ</constants>
   <constants>Constant.ВКМ_РазмерФиксированнойПермии</constants>
   <commonForms>CommonForm.БлокировкаРаботыСВнешнимиРесурсами</commonForms>
   <commonForms>CommonForm.ВводЗначенийСпискомСФлажками</commonForms>

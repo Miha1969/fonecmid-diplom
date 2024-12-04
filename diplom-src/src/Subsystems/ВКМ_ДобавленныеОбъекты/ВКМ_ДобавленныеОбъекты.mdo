@@ -32,7 +32,6 @@
   <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
   <content>CalculationRegister.ВКМ_Удержание</content>
-  <content>Constant.ВКМ_РазмерНДФЛ</content>
   <content>Constant.ВКМ_РазмерФиксированнойПермии</content>
   <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
   <content>Document.ВКМ_ВыплатаЗарплаты</content>

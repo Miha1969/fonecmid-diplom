@@ -18,4 +18,5 @@
   <content>InformationRegister.ВКМ_ГрафикиРаботы</content>
   <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
   <content>InformationRegister.ВКМ_ГрафикОтпусков</content>
+  <content>Constant.ВКМ_РазмерФиксированнойПермии</content>
 </mdclass:Subsystem>
