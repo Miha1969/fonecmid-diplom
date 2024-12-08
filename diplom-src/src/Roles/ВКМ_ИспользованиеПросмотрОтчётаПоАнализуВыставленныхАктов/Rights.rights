@@ -27,7 +27,18 @@
 		</right>
 	</object>
 	<object>
-		<name>AccumulationRegister.ОстаткиТоваров</name>
+		<name>Report.ВКМ_АнализВыставленныхАктов</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>AccumulationRegister.Продажи</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -46,17 +57,6 @@
 		</right>
 		<right>
 			<name>TotalsControl</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Report.ВКМ_АнализВыставленныхАктов</name>
-		<right>
-			<name>Use</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>View</name>
 			<value>true</value>
 		</right>
 	</object>
